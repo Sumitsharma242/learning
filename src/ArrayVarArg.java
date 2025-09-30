@@ -7,6 +7,6 @@ public class ArrayVarArg {
         for (int i:x) {
             sum+=i;
         }
-        System.out.println("Sum of numbers is: "+sum);
+        System.out.println("Sum of numbers is: "+sum) ;
     }
 }
