@@ -1,12 +1,14 @@
 public class ArrayVarArg {
     public static void main(String[] args) {
-        sum(10,20,30);
+        int []array={10,20,30};
+        sum(1, array);
     }
-    public static void sum(int... x){
+    public static void sum(int y,int... x){
         int sum=0;
         for (int i:x) {
             sum+=i;
         }
-        System.out.println("Sum of numbers is: "+sum);
+        int z= sum-y;
+        System.out.println("Sum of numbers is: "+z);
     }
 }
