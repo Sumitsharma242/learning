@@ -1,4 +1,4 @@
-// this method is getting and setting the data in GetterAndSetter class.
+package learningJava;// this method is getting and setting the data in learningJava.GetterAndSetter class.
 // this is the feature of encapsulation
 
 public class StudentMain{

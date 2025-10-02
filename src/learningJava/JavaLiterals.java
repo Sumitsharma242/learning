@@ -1,3 +1,5 @@
+package learningJava;
+
 // constant value which is assigned ot a variable is know n as literals
 public class JavaLiterals {
     public static void main(String[] args){

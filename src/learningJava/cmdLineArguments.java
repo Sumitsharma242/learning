@@ -1,3 +1,5 @@
+package learningJava;
+
 public class cmdLineArguments {
     // in this input is taker from the command line based on what is the input actions can be take out
 //    public static void main(String[] args){

@@ -1,3 +1,5 @@
+package learningJava;
+
 import java.util.Scanner;
 public class PractiseSet_5 {
 

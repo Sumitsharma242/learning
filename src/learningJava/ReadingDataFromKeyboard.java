@@ -1,3 +1,5 @@
+package learningJava;
+
 import java.util.Scanner;
 
 public class ReadingDataFromKeyboard {
@@ -17,8 +19,8 @@ public class ReadingDataFromKeyboard {
 //String str= sc.next();  // this is used to print one letter till the space
   //      System.out.println(str);
 
-        //String str= sc.nextLine(); // this is to input the full line and hence can be printed
-        //System.out.println(str);
+        String str= sc.nextLine(); // this is to input the full line and hence can be printed
+        System.out.println(str);
 
     }
 }

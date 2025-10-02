@@ -1,3 +1,5 @@
+package learningJava;
+
 public class Operators {
     public static void main (String[]args){
         //System.out.println(65 > 6 || 76 < 65);  //// output is true

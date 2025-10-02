@@ -1,3 +1,5 @@
+package learningJava;
+
 public class ArrayVarArg {
     public static void main(String[] args) {
         //    int []array={10,20,30};

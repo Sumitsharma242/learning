@@ -1,5 +1,5 @@
-// this is the concept of the encapsulation where private variables are accessible only through the public methods
-// and hence the main method who is accessing there variables is in StudentMain class/.javafile
+package learningJava;// this is the concept of the encapsulation where private variables are accessible only through the public methods
+// and hence the main method who is accessing there variables is in learningJava.StudentMain class/.javafile
 
 public class GetterAndSetter {
 

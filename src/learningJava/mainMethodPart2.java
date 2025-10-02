@@ -1,3 +1,5 @@
+package learningJava;
+
 public class mainMethodPart2 {
 
     // this came in the 1.7 version of java where the main is found and then identify the static block,

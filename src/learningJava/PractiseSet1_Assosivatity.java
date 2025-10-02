@@ -1,3 +1,5 @@
+package learningJava;
+
 public class PractiseSet1_Assosivatity {
     public static void main (String[]args)
     {
