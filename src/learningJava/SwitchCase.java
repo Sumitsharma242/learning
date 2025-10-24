@@ -10,18 +10,20 @@ public class SwitchCase {
         int age= sc.nextInt();
 
         switch (age){
-            case 18 ->{
+            case 18:
                 System.out.println("you can have learning licence");
-            }
-            case 21->{
+            break;
+            case 21:
                 System.out.println(" You can have the car licence");
-            }
-            case 35->{
+            break;
+
+            //As break is not used here, so it will continue to the next case
+            // it is known as fall through
+            case 35:
                 System.out.println("your licence needs renewal");
-            }
-            default->{
+            default:
                 System.out.println("Enjoy :)");
-            }
+            break;
         }
     }
 }
