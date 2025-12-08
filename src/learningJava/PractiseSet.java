@@ -2,6 +2,7 @@ package learningJava;
 
 import java.util.Scanner;
 
+
 public class PractiseSet {
 
     public static void main(String[] args){
